@@ -1,0 +1,103 @@
+[33mcommit 5802daaf7cc4f3a88af47ff15531849a89bee80f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Your Name <you@example.com>
+Commit: Your Name <you@example.com>
+
+    add test
+
+[33mcommit 1ae192b654d24068b3b5a4096ef620da4cb157db[m
+Author: Your Name <you@example.com>
+Commit: Your Name <you@example.com>
+
+    add gitlearn
+
+[33mcommit 939af48864947c9a925328cc752bb3df75614988[m
+Author: ningliangquantil <52913618+ningliangquantil@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Create RemoteWarehouselearn
+
+[33mcommit 382aa78e8d4c3b98b80bc42e5f847f7bfe9870c0[m
+Merge: 9406397 832608d
+Author: Your Name <you@example.com>
+Commit: Your Name <you@example.com>
+
+    merge no-ff
+
+[33mcommit 832608d53f5489e10d7534ab4c5829d8685db4ec[m
+Author: Your Name <you@example.com>
+Commit: Your Name <you@example.com>
+
+    add merge
+
+[33mcommit 94063972388c82ce72d2ba5b5d5672d079238e5d[m
+Merge: 9973a6a 6902a8e
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    conflict fixed
+
+[33mcommit 9973a6afc0d703e389252729a3afbd3cbb77b87c[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    & simlpe
+
+[33mcommit 6902a8edc4f0f640a596b53c3df9a09d9caf8e01[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    AND simple
+
+[33mcommit ad191602e6d9ccab4b6b53f75e79c08e7ee2518d[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    branch test
+
+[33mcommit 23cd97994b78ac8393193ed4eb815ba951e9fdc2[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    remove test.txt
+
+[33mcommit 8aa0d751c722ed8caf126b821d450d6f75ef1e4d[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    add test.txt
+
+[33mcommit 01489c2a6dc18eb70ae3177c5ca421184409d30b[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    second change
+
+[33mcommit 1f173241bd12ed0e54fcbd0a8dfac01e5fbde659[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    git tracks changes
+
+[33mcommit 49469e1b2797e04b2ba066dcc1a28dbea029ec4d[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    undstand how stage works
+
+[33mcommit ab82fd5cf36f9bb0e0c3473caebe904442c7d833[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    append GPL
+
+[33mcommit 819214d0eee4293f5e6efafa1a2a057cb74d3fdc[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    add distributed
+
+[33mcommit 230f40f4fbe4a646b698f685d35713c2f3317a81[m
+Author: ning.liang@quantil.com <liangn@wangsu.com>
+Commit: ning.liang@quantil.com <liangn@wangsu.com>
+
+    wrote a readme file
